@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//John Papaioannou/NONSGML Bennu 0.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:903784@mycourses.aalto.fi
+SUMMARY:Reflektio tyÃ¶ssÃ¤oppimisesta (Quiz closes) (ELEC-A4020 - TyÃ¶ssÃ¤oppim
+	inen\, 10.04.20...)
+	
+DESCRIPTION:Kysymysten avulla pohdit ja raportoit\, millaista oppimista tyÃ¶
+	skentelyn aikana on tapahtunut. Voit tÃ¤ydentÃ¤Ã¤ vastauksia tyÃ¶skentelyn kulu
+	essa. Vastaukset palautuvat arvosteluun automaattisesti palautusajan pÃ¤Ã¤tty
+	essÃ¤.Osio jakautuu kolmeen teemaan:InsinÃ¶Ã¶ritaidotYleiset tyÃ¶elÃ¤mÃ¤taidotMui
+	ta pohdintojaKysymyksiÃ¤ on runsaasti\, ettÃ¤ voit valita niistÃ¤ omaan tilant
+	eeseesi sopivimmat. Osan kohdista saa siis jÃ¤ttÃ¤Ã¤ tyhjÃ¤ksi.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170910T095317Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170910T200000Z
+CATEGORIES:ELEC-A4020_1129369140
+END:VEVENT
+BEGIN:VEVENT
+UID:1636187@mycourses.aalto.fi
+SUMMARY:H01 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015836Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170912T051500Z
+DTEND:20170912T070000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1643263@mycourses.aalto.fi
+SUMMARY:H02 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015742Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170912T071500Z
+DTEND:20170912T090000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1655984@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning\, TU5 / 1199 (TU5)\, TUAS\, Maarinti
+	e 8 (ELEC-E8730 - Design of electronic equipm...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014019Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170912T091500Z
+DTEND:20170912T110000Z
+CATEGORIES:ELEC-E8730_1130166818
+END:VEVENT
+BEGIN:VEVENT
+UID:1618094@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning\, B-Sali / Y203a\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013303Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170912T111500Z
+DTEND:20170912T130000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1628773@mycourses.aalto.fi
+SUMMARY:A02 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013136Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170912T130000Z
+DTEND:20170912T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1690723@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning (MEC-E3001 - Product Development Pro
+	ject ...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013859Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170913T130000Z
+DTEND:20170913T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1664487@mycourses.aalto.fi
+SUMMARY:Introduction Lecture (MEC-E3001 - Product Development Project ...)
+DESCRIPTION:&nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\;
+	 &nbsp\; &nbsp\; Let's get PdP 17-18 started! It's going to be great! Here'
+	s what's happening: An introductory lecture\, team forming procedures and a
+	 call for project manager candidates. Be there! You're about to embark on a
+	 life changing learning experience!
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T091748Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170913T131500Z
+DTEND:20170913T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1654395@mycourses.aalto.fi
+SUMMARY:H03 Harjoitukset/Exercises/Ã–vningar\, U358 (U358)\, Otakaari 1 (ELE
+	C-A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014358Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170914T091500Z
+DTEND:20170914T110000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1622767@mycourses.aalto.fi
+SUMMARY:H04 Harjoitukset/Exercises/Ã–vningar\, U3 / U141\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014849Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170914T111500Z
+DTEND:20170914T130000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1649273@mycourses.aalto.fi
+SUMMARY:A01 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015910Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170914T130000Z
+DTEND:20170914T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1659621@mycourses.aalto.fi
+SUMMARY:H09 Harjoitukset/Exercises/Ã–vningar\, U410b (U410b)\, Otakaari 1 (L
+	C-5411 - Tekniikan alan ruotsia peruste...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T020453Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170915T071500Z
+DTEND:20170915T084500Z
+CATEGORIES:LC-5411_1130229306
+END:VEVENT
+BEGIN:VEVENT
+UID:1692579@mycourses.aalto.fi
+SUMMARY:Project Managers Candidates Evaluation (MEC-E3001 - Product Develop
+	ment Project ...)
+	
+DESCRIPTION:Students who are interested in the role of project manager will
+	 take part in an evaluation session\, where they will get to know more abou
+	t the role of PM during PdP and its challenges and what makes a good projec
+	t manager. At the end students will evaluate their ability of taking the ch
+	allenge.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T091749Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170915T131500Z
+DTEND:20170915T160000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1690844@mycourses.aalto.fi
+SUMMARY:Service break / IT-palveluissa katko
+DESCRIPTION:ITS pÃ¤ivittÃ¤Ã¤ keskitettyÃ¤ tiedostopalvelua viikonloppuna 16-17.
+	9.2017.\n Huoltokatko alkaa 16.9.2017 klo 9.00 ja loppuu viimeistÃ¤Ã¤n sunnun
+	taina \n17.9. klo 18. Huollon aikana pÃ¤ivitetÃ¤Ã¤n myÃ¶s yleispalvelimia ja \n
+	jÃ¤rjestellÃ¤Ã¤n hakemistoja.Katkon aikana monet IT-palvelut (MyCourses\, ACRI
+	S\, aalto.fi\, koti- ja tyÃ¶-hakemistot jne.) eivÃ¤t ole kÃ¤ytettÃ¤vissÃ¤. MyÃ¶sk
+	Ã¤Ã¤n kiinteisiin tyÃ¶asemiin ei voi kirjautua. SÃ¤hkÃ¶posti (mail.aalto.fi) toi
+	mii huollon aikana. Voit seurata huollon edistymistÃ¤ https://status.aalto.f
+	i â€“palvelusta.Jos sinulla on kysymyksiÃ¤ katkoon\, ajankohtaan yms. liittyen
+	\, ota yhteyttÃ¤: servicedesk@aalto.fi\n                           \n       
+	 IT Services will update centralized file services during the \nweekend 16-
+	17 September 2017. Service break will start on Saturday\, 16 \nSeptember at
+	 9 am and will end on Sunday\, 17 September at 6 pm at the \nlatest. We wil
+	l do other serversâ€™ maintenance work during the service \nbreak\, too.Many 
+	IT services (MyCourses\, ACRIS\, aalto.fi\, home \n&amp\; work file service
+	s etc.) are unavailable during the break\, you \ncannot log in to desktop w
+	orkstations. Mail service mail.aalto.fi will \nwork during the break. You c
+	an follow work status on: &nbsp\;https://status.aalto.fiIf this service bre
+	ak will cause you problems\, please contact servicedesk@aalto.fi\n\n       
+	         \n        \n    \n        
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170908T090346Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170916T060000Z
+DTEND:20170917T150000Z
+CATEGORIES:Global events
+END:VEVENT
+BEGIN:VEVENT
+UID:1642571@mycourses.aalto.fi
+SUMMARY:H01 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015418Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170919T051500Z
+DTEND:20170919T070000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1639807@mycourses.aalto.fi
+SUMMARY:H02 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012544Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170919T071500Z
+DTEND:20170919T090000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1616672@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning\, TU5 / 1199 (TU5)\, TUAS\, Maarinti
+	e 8 (ELEC-E8730 - Design of electronic equipm...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014650Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170919T091500Z
+DTEND:20170919T110000Z
+CATEGORIES:ELEC-E8730_1130166818
+END:VEVENT
+BEGIN:VEVENT
+UID:1655616@mycourses.aalto.fi
+SUMMARY:A02 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T020450Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170919T130000Z
+DTEND:20170919T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1659836@mycourses.aalto.fi
+SUMMARY:H09 Harjoitukset/Exercises/Ã–vningar\, Y309b\, Otakaari 1 (LC-5411 -
+	 Tekniikan alan ruotsia peruste...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013227Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170920T071500Z
+DTEND:20170920T084500Z
+CATEGORIES:LC-5411_1130229306
+END:VEVENT
+BEGIN:VEVENT
+UID:1690781@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning (MEC-E3001 - Product Development Pro
+	ject ...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013451Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170920T130000Z
+DTEND:20170920T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1664488@mycourses.aalto.fi
+SUMMARY:Lecture 2 (MEC-E3001 - Product Development Project ...)
+DESCRIPTION:Team forming is finalized. Teams get know more about product de
+	velopment\, and the procedure of sponsor/project matching.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T091749Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170920T131500Z
+DTEND:20170920T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1657055@mycourses.aalto.fi
+SUMMARY:H03 Harjoitukset/Exercises/Ã–vningar\, U358 (U358)\, Otakaari 1 (ELE
+	C-A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014417Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170921T091500Z
+DTEND:20170921T110000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1629417@mycourses.aalto.fi
+SUMMARY:H04 Harjoitukset/Exercises/Ã–vningar\, U3 / U141\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012012Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170921T111500Z
+DTEND:20170921T130000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1622652@mycourses.aalto.fi
+SUMMARY:A01 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012238Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170921T130000Z
+DTEND:20170921T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1660817@mycourses.aalto.fi
+SUMMARY:H09 Harjoitukset/Exercises/Ã–vningar\, U410b (U410b)\, Otakaari 1 (L
+	C-5411 - Tekniikan alan ruotsia peruste...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012836Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170922T071500Z
+DTEND:20170922T084500Z
+CATEGORIES:LC-5411_1130229306
+END:VEVENT
+BEGIN:VEVENT
+UID:1637409@mycourses.aalto.fi
+SUMMARY:H01 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013436Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170926T051500Z
+DTEND:20170926T070000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1649719@mycourses.aalto.fi
+SUMMARY:H02 Harjoitukset/Exercises/Ã–vningar\, U5 / U147\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012753Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170926T071500Z
+DTEND:20170926T090000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1647992@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning\, TU5 / 1199 (TU5)\, TUAS\, Maarinti
+	e 8 (ELEC-E8730 - Design of electronic equipm...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T013108Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170926T091500Z
+DTEND:20170926T110000Z
+CATEGORIES:ELEC-E8730_1130166818
+END:VEVENT
+BEGIN:VEVENT
+UID:1633218@mycourses.aalto.fi
+SUMMARY:A02 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T012914Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170926T130000Z
+DTEND:20170926T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1661615@mycourses.aalto.fi
+SUMMARY:H09 Harjoitukset/Exercises/Ã–vningar\, Y309b\, Otakaari 1 (LC-5411 -
+	 Tekniikan alan ruotsia peruste...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014248Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170927T071500Z
+DTEND:20170927T084500Z
+CATEGORIES:LC-5411_1130229306
+END:VEVENT
+BEGIN:VEVENT
+UID:1690800@mycourses.aalto.fi
+SUMMARY:L01 Luento/Lecture/FÃ¶relÃ¤sning (MEC-E3001 - Product Development Pro
+	ject ...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015340Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170927T130000Z
+DTEND:20170927T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1664489@mycourses.aalto.fi
+SUMMARY:Sponsors Matchmaking (MEC-E3001 - Product Development Project ...)
+DESCRIPTION:The sponsors have an elevator pitch and then the students go ar
+	ound and meet the sponsors. Questions are asked and answers are given.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T091749Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170927T131500Z
+DTEND:20170927T170000Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1646556@mycourses.aalto.fi
+SUMMARY:H03 Harjoitukset/Exercises/Ã–vningar\, U358 (U358)\, Otakaari 1 (ELE
+	C-A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T011821Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170928T091500Z
+DTEND:20170928T110000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1623144@mycourses.aalto.fi
+SUMMARY:H04 Harjoitukset/Exercises/Ã–vningar\, U3 / U141\, Otakaari 1 (ELEC-
+	A7200 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T015601Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170928T111500Z
+DTEND:20170928T130000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1629550@mycourses.aalto.fi
+SUMMARY:A01 Harjoitukset/Exercises/Ã–vningar\, U351\, Otakaari 1 (ELEC-A7200
+	 - Signaalit ja jÃ¤rjestelmÃ¤t...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T020201Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170928T130000Z
+DTEND:20170928T150000Z
+CATEGORIES:ELEC-A7200_1130165678
+END:VEVENT
+BEGIN:VEVENT
+UID:1661856@mycourses.aalto.fi
+SUMMARY:H09 Harjoitukset/Exercises/Ã–vningar\, U410b (U410b)\, Otakaari 1 (L
+	C-5411 - Tekniikan alan ruotsia peruste...)
+	
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T014039Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170929T071500Z
+DTEND:20170929T084500Z
+CATEGORIES:LC-5411_1130229306
+END:VEVENT
+BEGIN:VEVENT
+UID:1664490@mycourses.aalto.fi
+SUMMARY:Project Managers Training (MEC-E3001 - Product Development Project 
+	...)
+	
+DESCRIPTION:Mandatory training for the new project managers. Training start
+	s at 09 AM ends at 6 PM at the Stage. What happens: What to expect\, Managi
+	ng a team\, Important dates\, Team work\, Facilities\, Sponsor relationship
+	\, Delivering the project\, And surprises! And of course some fun after a d
+	ay's worth of hard training at the sauna and hot [...]
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170912T091749Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170930T060000Z
+DTEND:20170930T205900Z
+CATEGORIES:MEC-E3001_1130347950
+END:VEVENT
+BEGIN:VEVENT
+UID:1354829@mycourses.aalto.fi
+SUMMARY:TyÃ¶ssÃ¤oppimisen vahvistaminen (Quiz closes) (ELEC-A4020 - TyÃ¶ssÃ¤opp
+	iminen\, 10.04.20...)
+	
+DESCRIPTION:TÃ¤ssÃ¤ osiossa tallennetaan viralliset dokumentit\, joilla tyÃ¶sk
+	entely todennetaan.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20170504T095842Z
+DTSTAMP:20170912T094532Z
+DTSTART:20170930T090000Z
+CATEGORIES:ELEC-A4020_1129369140
+END:VEVENT
+END:VCALENDAR
