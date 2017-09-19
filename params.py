@@ -1,13 +1,16 @@
 #! -*- coding: utf-8 -*-
 import os
 
-
-ROOT_DIR = dir_path = os.path.dirname(os.path.realpath(__file__))
-
 ICAL_URL = "https://mycourses.aalto.fi/calendar/export_execute.php?userid=8175&authtoken=ce516db4b5d8c5bcbefbd200a83268a0fe44e2e7&preset_what=all&preset_time=custom"
 
-GEO_LOC_SAVE_FILE = os.path.join(ROOT_DIR, "geosave.p")
-WEBSITE_SAVE_FILE = os.path.join(ROOT_DIR, "websave.p")
+ROOT_DIR = dir_path = os.path.dirname(os.path.realpath(__file__))
+SAVE_DIR = os.path.join(ROOT_DIR, "saves/")
+
+IN_DIR = os.path.join(ROOT_DIR, "input/")
+OUT_DIR = os.path.join(ROOT_DIR, "output/")
+
+GEO_LOC_SAVE_FILE = os.path.join(SAVE_DIR, "geosave.p")
+WEBSITE_SAVE_FILE = os.path.join(SAVE_DIR, "websave.p")
 
 SAVE_FILE_NAME = 'testCdal.ics'
 

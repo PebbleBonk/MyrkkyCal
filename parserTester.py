@@ -142,11 +142,11 @@ if __name__ == '__main__':
     if len(sys.argv) == 2:
         icalfilename = sys.argv[1]
     else:
-        icalfilename = "icalexport-eipou.ics"
+        icalfilename = "icalexport-4.ics"
 
-    icalFile = path.join(params.ROOT_DIR, icalfilename)
+    icalFile = path.join(params.IN_DIR, icalfilename)
     # icalURL = params.ICAL_URL
 
-    outputFileName = path.join(params.ROOT_DIR, "edited_"+icalfilename)
+    outputFileName = path.join(params.OUT_DIR, "edited_"+icalfilename)
 
     test_parser(icalFile, outputFileName)
